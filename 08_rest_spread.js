@@ -5,6 +5,8 @@ let sum = (...args) => (
 
 console.log(sum(1,2,3,4));
 
+// Spread
+
 let multiply = (a,b) => a * b;
 console.log(multiply(...[1,2]));
 

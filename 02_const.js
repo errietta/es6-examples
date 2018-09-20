@@ -5,3 +5,5 @@ function showcase_const() {
   PI = 3; // close enough
   console.log(PI);
  }
+
+ showcase_const();

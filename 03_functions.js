@@ -21,3 +21,9 @@ const print_answer_2 = () => {
 
 print_answer();
 print_answer_2();
+
+const add = (a, b) => a+b;
+const square = a => a*a;
+
+console.log(add (2, 5));
+console.log(square (2));

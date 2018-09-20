@@ -21,4 +21,4 @@ function showcase_let() {
 }
 
 showcase_var();
-showcase_let();
+//showcase_let();
